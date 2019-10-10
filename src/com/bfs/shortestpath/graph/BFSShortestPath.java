@@ -163,6 +163,7 @@ public class BFSShortestPath {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//bfs always return shortest path so just call bfs method and maintain record of nodes traversed 
 
 		BFSShortestPath.findShortestPath();
 	}
